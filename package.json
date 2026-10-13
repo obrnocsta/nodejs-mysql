@@ -11,12 +11,20 @@
     "type": "git",
     "url": "git+https://github.com/obrnocsta/nodejs-mysql.git"
   },
-  "keywords": ["express", "express-handlebars", "mysql", "nodejs"],
+  "keywords": [
+    "express",
+    "express-handlebars",
+    "mysql",
+    "nodejs"
+  ],
   "author": "Bruno Costa",
   "license": "ISC",
   "type": "module",
   "bugs": {
     "url": "https://github.com/obrnocsta/nodejs-mysql/issues"
   },
-  "homepage": "https://github.com/obrnocsta/nodejs-mysql#readme"
+  "homepage": "https://github.com/obrnocsta/nodejs-mysql#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
 }
