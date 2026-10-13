@@ -1,0 +1,22 @@
+{
+  "name": "node-mysql",
+  "version": "1.0.0",
+  "description": "Node.js + Express + MySQL",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obrnocsta/nodejs-mysql.git"
+  },
+  "keywords": ["express", "express-handlebars", "mysql", "nodejs"],
+  "author": "Bruno Costa",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/obrnocsta/nodejs-mysql/issues"
+  },
+  "homepage": "https://github.com/obrnocsta/nodejs-mysql#readme"
+}
